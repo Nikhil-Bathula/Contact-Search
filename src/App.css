@@ -1,0 +1,41 @@
+.App {
+  margin: 0 5rem;
+}
+
+.seatchFilters {
+  display: flex;
+  width: auto;
+}
+
+.sectionA {
+  display: flex;
+  flex-wrap: wrap;
+  width: auto;
+}
+
+.sectionAField {
+  margin: 1rem;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+}
+
+.FieldB {
+  margin: 1rem;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+}
+
+.sectionB {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+.selectedDetails {
+  display: grid;
+  margin: 2rem 0;
+}
+
+/* .searchBox {
+  margin: 2rem 0;
+} */

@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Nina Garrison",
+    "DOB": "1979-05-16",
+    "Address": "480 Jones Creek",
+    "City": "Austin",
+    "State": "TX",
+    "ZipCode": "73301",
+    "Email Address": "nina.garrison@example.com",
+    "Phone Number": "512-555-7624"
+  },
+  {
+    "Name": "Mark Robinson",
+    "DOB": "1985-12-03",
+    "Address": "2947 Washington Ave",
+    "City": "Seattle",
+    "State": "WA",
+    "ZipCode": "98109",
+    "Email Address": "mark.robinson@example.com",
+    "Phone Number": "206-555-1739"
+  },
+  {
+    "Name": "Alice Carter",
+    "DOB": "1992-04-20",
+    "Address": "7820 Hillview Rd",
+    "City": "San Diego",
+    "State": "CA",
+    "ZipCode": "92123",
+    "Email Address": "alice.carter@example.com",
+    "Phone Number": "858-555-4821"
+  },
+  {
+    "Name": "Robert Lee",
+    "DOB": "1971-08-10",
+    "Address": "1245 Maple St",
+    "City": "Boston",
+    "State": "MA",
+    "ZipCode": "02115",
+    "Email Address": "robert.lee@example.com",
+    "Phone Number": "617-555-9354"
+  },
+  {
+    "Name": "Jessica Taylor",
+    "DOB": "1988-11-07",
+    "Address": "305 Birchwood Drive",
+    "City": "Phoenix",
+    "State": "AZ",
+    "ZipCode": "85008",
+    "Email Address": "jessica.taylor@example.com",
+    "Phone Number": "602-555-1479"
+  },
+  {
+    "Name": "David Harris",
+    "DOB": "1990-06-25",
+    "Address": "4620 Oak Lane",
+    "City": "Chicago",
+    "State": "IL",
+    "ZipCode": "60606",
+    "Email Address": "david.harris@example.com",
+    "Phone Number": "312-555-8390"
+  },
+  {
+    "Name": "Emily Moore",
+    "DOB": "1983-03-18",
+    "Address": "690 Sunset Blvd",
+    "City": "Los Angeles",
+    "State": "CA",
+    "ZipCode": "90028",
+    "Email Address": "emily.moore@example.com",
+    "Phone Number": "323-555-2634"
+  },
+  {
+    "Name": "James Jackson",
+    "DOB": "1977-09-30",
+    "Address": "921 Lakeview Ave",
+    "City": "Denver",
+    "State": "CO",
+    "ZipCode": "80203",
+    "Email Address": "james.jackson@example.com",
+    "Phone Number": "720-555-6458"
+  },
+  {
+    "Name": "Sophia Martinez",
+    "DOB": "1995-12-14",
+    "Address": "345 Willow Lane",
+    "City": "Miami",
+    "State": "FL",
+    "ZipCode": "33131",
+    "Email Address": "sophia.martinez@example.com",
+    "Phone Number": "305-555-8391"
+  },
+  {
+    "Name": "Ethan Brown",
+    "DOB": "1986-02-12",
+    "Address": "718 Highland Dr",
+    "City": "Houston",
+    "State": "TX",
+    "ZipCode": "77002",
+    "Email Address": "ethan.brown@example.com",
+    "Phone Number": "713-555-7192"
+  }
+]
