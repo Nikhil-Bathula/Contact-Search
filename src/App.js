@@ -158,7 +158,6 @@ function App() {
           Address: {selectedData.Address}, {selectedData.City}, {selectedData.State}, {selectedData.ZipCode}
         </div>
       </div>}
-
     </div>
   );
 }
