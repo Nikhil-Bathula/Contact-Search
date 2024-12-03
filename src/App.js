@@ -70,13 +70,13 @@ function App() {
 
   return (
     <div className="App">
-      <div><h4>Choose a Contact</h4></div>
+      <div><h2>Choose a Contact</h2></div>
       <div>
         <div><h3>Search for a Contact</h3></div>
         <div className='seatchFilters'>
           <div className='sectionA'>
             <input type='text' className='sectionAField' placeholder='First Name' onChange={(e) => handleChange('Name', e.target.value)} />
-            <input type='text' className='sectionAField' placeholder='Last Name' onChange={(e) => handleChange('Name', e.target.value)}/>
+            <input type='text' className='sectionAField' placeholder='Last Name' onChange={(e) => handleChange('Name', e.target.value)} />
             <input type='text' className='sectionAField' placeholder='Date of Birth' onChange={(e) => handleChange('DOB', e.target.value)} onBlur={(e) => handleChange('DOB', e.target.value)} />
             <input type='email' className='sectionAField' placeholder='Email Address' onChange={(e) => handleChange('Email Address', e.target.value)} />
             <input type='number' className='sectionAField' placeholder='Phone Number' onChange={(e) => handleChange('Phone Number', e.target.value)} />
@@ -144,18 +144,19 @@ function App() {
         </div>
       </div>
       {selectedData !== null && <div className='selectedDetails'>
-         <div>
+        <div><h2>Selected Contact</h2></div>
+        <div>
           Name: {selectedData.Name}
-         </div>
-         <div>
+        </div>
+        <div>
           Email: {selectedData["Email Address"]}
-         </div>
-         <div>
+        </div>
+        <div>
           Phone: {selectedData["Phone Number"]}
-         </div>
-         <div>
+        </div>
+        <div>
           Address: {selectedData.Address}, {selectedData.City}, {selectedData.State}, {selectedData.ZipCode}
-         </div>
+        </div>
       </div>}
 
     </div>
